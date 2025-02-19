@@ -16,13 +16,12 @@ Bifrost is a user-friendly desktop application that extracts text from images, s
 
 1. Download and install [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki)
 2. Download the latest Bifrost release
-3. Run `bifrost.exe`
+3. Run `bifrost.py` or `bifrost1.py` or `bifrost2.py`
 4. On first launch, configure Tesseract path (typically `C:\Program Files\Tesseract-OCR\tesseract.exe`)
 
 ## Quick Start Guide 📖
 
 1. **Capture Text from Screen**:
-   - Press `Ctrl+Shift+S`.
    - Draw a rectangle around the text.
    - Text appears automatically in the application.
 
@@ -32,7 +31,6 @@ Bifrost is a user-friendly desktop application that extracts text from images, s
    - Text appears automatically.
 
 3. **Select Specific Text**:
-   - Press 'S' to enter selection mode.
    - Draw rectangle around desired text.
    - Selected text is added to current text.
 
